@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/pianco/.dotnet/store/|arch|/|tfm|",
+      "/Users/pianco/.nuget/packages"
+    ]
+  }
+}

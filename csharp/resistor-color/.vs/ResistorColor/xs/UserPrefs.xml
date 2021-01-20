@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{3505D807-F608-41F7-9D56-09E9B2B6F0CE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ResistorColorTests.cs">
+    <Files>
+      <File FileName="ResistorColor.cs" Line="10" Column="6" />
+      <File FileName="ResistorColorTests.cs" Line="27" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ResistorColor" expanded="True">
+            <Node name="ResistorColor" expanded="True">
+              <Node name="ResistorColorTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ResistorColor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
