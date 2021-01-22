@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{427FB74A-268B-4157-BBF4-EEEB2A72EFD7}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="SpaceAge.cs">
     <Files>
-      <File FileName="SpaceAge.cs" Line="43" Column="6" />
-      <File FileName="SpaceAgeTests.cs" Line="48" Column="1" />
+      <File FileName="SpaceAge.cs" Line="34" Column="60" />
+      <File FileName="SpaceAgeTests.cs" Line="38" Column="41" />
       <File FileName="README.md" Line="1" Column="1" />
     </Files>
     <Pads>
@@ -11,6 +11,17 @@
           <Node name="SpaceAge" expanded="True">
             <Node name="SpaceAge" expanded="True">
               <Node name="SpaceAge.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SpaceAge" expanded="True">
+            <Node name="SpaceAge" expanded="True">
+              <Node name="SpaceAgeTests" expanded="True">
+                <Node name="Age_on_mercury" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
