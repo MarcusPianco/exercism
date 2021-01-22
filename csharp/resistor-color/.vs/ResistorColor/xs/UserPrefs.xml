@@ -8,8 +8,15 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ResistorColor" expanded="True">
+            <Node name="ResistorColor" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ResistorColor" expanded="True">
             <Node name="ResistorColor" expanded="True">
-              <Node name="ResistorColorTests.cs" selected="True" />
+              <Node name="ResistorColorTests" expanded="True" selected="True" />
             </Node>
           </Node>
         </State>
