@@ -1,5 +1,6 @@
 module.exports = {
   verbose: true,
+  
   projects: ['<rootDir>'],
   testMatch: [
     '**/__tests__/**/*.[jt]s?(x)',
